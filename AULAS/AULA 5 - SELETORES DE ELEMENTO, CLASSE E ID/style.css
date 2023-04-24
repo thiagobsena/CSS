@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(204, 194, 194);
+}
+
+h1 {
+    color: aliceblue;
+
+    text-align: center;
+    background-color: rgb(174, 109, 235);
+    border-radius: 10em;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(193, 151, 233);
+    border-radius: 10em;
+    color: aliceblue;
+}
