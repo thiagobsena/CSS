@@ -1,0 +1,10 @@
+#texto {
+    color: white;
+    text-align: center;
+    background-color: rgb(156, 128, 182);
+    border-radius: 10px;
+}
+
+.paragrafo {
+    background-color: rgb(224, 245, 176);
+}
