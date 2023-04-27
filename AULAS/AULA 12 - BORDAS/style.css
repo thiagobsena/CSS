@@ -1,0 +1,18 @@
+#azul {
+   
+    height: 100px;
+    background-color: blue;
+    border-width: 5;
+
+}
+
+#amarelo {
+    height: 100px;
+    background-color: yellow;
+ 
+}
+
+#vermelho {
+    height: 100px;
+    background-color: red;
+}
