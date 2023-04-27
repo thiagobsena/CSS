@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(rgb(109, 109, 197),rgb(65, 65, 62),rgb(41, 95, 126))
+}
+
+.par {
+    color: rgba(252, 252, 252, 0.644);
+}
+
+#h1 {
+    color: rgb(255, 255, 255);
+
+
+}
