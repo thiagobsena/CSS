@@ -1,0 +1,24 @@
+a {
+    background-color: rgb(59, 59, 204);
+    color: white;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: rgb(142, 108, 173);
+}
+
+a:hover {
+    padding: 10px;
+    background-color: rgb(4, 4, 90);
+    box-shadow: 5px 5px 10px black;
+}
+
+a:active {
+    background-color: grey;
+}
