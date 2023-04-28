@@ -1,0 +1,48 @@
+.card {
+    background-color: #eee;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+ 
+}
+
+li {
+    background-color: #cceaff;
+    border: 1px solid #5ca8ef;
+    margin: 10px;
+    padding: 1opx;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+ol {
+    padding: 30px;
+    list-style: upper-alpha;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8em;
+    text-align: center;
+    color: #5ca8ef;
+}
+
+.h2 {
+    background-color: #eee;
+    width: 550px;
+    height: 10px;
+    margin: auto;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 0.8em;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5ca8ef;
+    cursor: help;
+}
+}
