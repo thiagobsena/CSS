@@ -1,0 +1,19 @@
+body {
+    font-size: 1.2rem;
+}
+
+#i1 {
+    float: left;
+    font-family: 10px;
+}
+
+p {
+    
+    clear: right;
+}
+
+div {
+    border: 1px solid black;
+    overflow: auto;
+
+}
